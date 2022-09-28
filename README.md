@@ -1,8 +1,8 @@
 # Chatbot Concierge #
 
-Name: Zecheng Zhang (zz3523)
-S3 URL: http://cloud-hw1.s3-website-us-east-1.amazonaws.com
-Github URL: https://github.com/Zhang-Zecheng/cloud-hw1-starter
+# Name: Zecheng Zhang (zz3523) #
+# S3 URL: http://cloud-hw1.s3-website-us-east-1.amazonaws.com #
+# Github URL: https://github.com/Zhang-Zecheng/cloud-hw1-starter # 
 
 ## About ##
 
